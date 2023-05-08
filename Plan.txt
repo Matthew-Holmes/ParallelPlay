@@ -1,0 +1,19 @@
+A project that plays a bitmap blocked into separate sections, with the contents of each section generated concurrently, joined together for the final frame
+
+Will use open source c++ multithreading libraries
+
+Steps:
+
+0. Prepare documentation (will document ongoing)
+
+1. Decide on requirements for short, medium and long term; then decide requirements for first version
+
+2. Scope out libraries to use; narrowing down to a shortlist 
+
+3. Plan and produce a prototype, bare-bones version that can be used to trial libraries
+
+4. See which libraries are best (1 branch per library), in terms of ease of use
+
+5. Prepare test framework and write some initial tests
+
+6. Produce version 1, incorporating tests as development continues
